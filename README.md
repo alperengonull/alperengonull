@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **alperenengineer@gmail.com**
 
